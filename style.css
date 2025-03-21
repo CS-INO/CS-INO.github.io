@@ -5,10 +5,8 @@ body {
     padding: 50px;
     background: url('https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXFkN3Jod3p2OGF0ZTMwYzhrd2psdnp5OXJmcmRkZHVocG5vdTZ4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKUfnQjVBh7vJWE/giphy.gif') no-repeat center center fixed;
     background-size: cover;
-    
-
+ 
 }
-
 
 .container {
     max-width: 600px;
