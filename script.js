@@ -1,6 +1,7 @@
 function proceed() {
-    window.location.href = "friendship.html";
+    window.location.href = "./friendship.html";
 }
+
 
 function accept() {
     alert("YAY! 🎉 You just made my day! Besties forever! ❤️");
